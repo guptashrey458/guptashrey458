@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shreyansh Gupta
 
 🎓 B.Tech CSE Student @ Birla Institute of Technology, Mesra (Graduating 2026)  
-💡 Finalist at Smart India Hackathon 2024 | TVS Credit IT Challenge | Walmart Sparkathon  
+💡 Finalist at Smart India Hackathon 2024 | TVS Credit IT Challenge Finalist | Walmart Sparkathon  
 💻 Full Stack & Blockchain Developer | Passionate about solving real-world problems  
 
 ---
