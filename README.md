@@ -45,6 +45,8 @@
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreyansh-gupta-043b4b25b/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/guptashreyansh458)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat&logo=codechef)](https://www.codechef.com/users/guptashreyansh)
 📧 guptashreyansh458@gmail.com 
 ---
 
