@@ -10,11 +10,29 @@
 
 - **Languages:** C++, JavaScript, TypeScript, Python, Java
 - **Frontend:** React, Next.js, Tailwind CSS, ShadCN, Bootstrap
-- **Backend:** Node.js, Express.js, GraphQL, Spring Boot
+- **Backend:** Node.js, Express.js, GraphQL
 - **Databases:** PostgreSQL, MongoDB, MySQL, Supabase
 - **DevOps & Cloud:** AWS, Vercel, Netlify
 - **Blockchain:** Ethereum, Hyperledger Fabric
 
+
+# 💼 Experience
+
+## Software Developer Intern — Vartecha Software LLP
+*May 2024 – August 2024*
+
+* Developed an **Invoice Generator** system for client companies with monthly billing and on-demand invoice sending.
+* Designed and implemented the **PostgreSQL** database schema for client and billing records.
+* Built backend services in **C# (.NET)** to handle invoice creation, storage, and sending functionality triggered by the manager's action.
+
+## Research Intern — Illinois Institute of Technology, Chicago
+*June 2025 – July 2025*
+
+* Collaborated on a project studying the **effects of microgravity on cellular functions**.
+* Developed a **physics-based mechanistic model** using **ODEs** to predict transporter regulation (upregulation/downregulation) in microgravity.
+* Implemented a **pharmacokinetics compartmental model** to simulate the movement of key enzymes and transporters for specific drugs in the human body.
+* Applied **machine learning** techniques to optimize a baseline PKPB model for accuracy.
+* Used **OSDR study data** to simulate microgravity conditions and performed **Monte Carlo simulations** to determine a 95% confidence interval for predictions.
 
 
 ### 📈 GitHub Stats
