@@ -16,16 +16,16 @@
 - **Blockchain:** Ethereum, Hyperledger Fabric
 
 
-# 💼 Experience
+### 💼 Experience
 
-## Software Developer Intern — Vartecha Software LLP
+### Software Developer Intern — Vartecha Software LLP
 *May 2024 – August 2024*
 
 * Developed an **Invoice Generator** system for client companies with monthly billing and on-demand invoice sending.
 * Designed and implemented the **PostgreSQL** database schema for client and billing records.
 * Built backend services in **C# (.NET)** to handle invoice creation, storage, and sending functionality triggered by the manager's action.
 
-## Research Intern — Illinois Institute of Technology, Chicago
+### Research Intern — Illinois Institute of Technology, Chicago
 *June 2025 – July 2025*
 
 * Collaborated on a project studying the **effects of microgravity on cellular functions**.
