@@ -9,10 +9,10 @@
 ### 🚀 Tech Stack
 
 - **Languages:** C++, JavaScript, TypeScript, Python, Java
-- **Frontend:** React, Next.js, Tailwind CSS, ShadCN, Bootstrap
-- **Backend:** Node.js, Express.js, GraphQL
-- **Databases:** PostgreSQL, MongoDB, MySQL, Supabase
-- **DevOps & Cloud:** AWS, Vercel, Netlify
+- **Frontend:**  Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** PostgreSQL, MySQL
+- **DevOps & Cloud:** Vercel, Netlify
 - **Blockchain:** Ethereum, Hyperledger Fabric
 
 
